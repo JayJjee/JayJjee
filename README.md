@@ -1,6 +1,6 @@
 ### E ai! Eu sou o Joan 👋
 
-- 🔭 Hoje estou aprofundando meus conhecimenos em Python e Desenvolvimento WEB.
+- 🔭 Estou profundando meus conhecimenos em Python e Desenvolvimento WEB.
 - 📫 Como me encontrar: 
 - LinkedIn: https://www.linkedin.com/in/joan-guilherme-ara%C3%BAjo-de-menezes-76a859191/
 - E-mail: joanguilherme.contato@gmail.com
