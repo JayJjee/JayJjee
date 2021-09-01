@@ -4,7 +4,7 @@
 - 📫 How to find me: 
 - LinkedIn: https://www.linkedin.com/in/joan-guilherme-ara%C3%BAjo-de-menezes-76a859191/
 - E-mail: joanguilherme.contato@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/his
 
 <div>
   <a href="https://github.com/JayJjee">
