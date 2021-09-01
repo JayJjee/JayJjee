@@ -1,7 +1,7 @@
-### E ai! Eu sou o Joan 👋
+### Hey! I'm Joan 👋
 
-- 🔭 Estou profundando meus conhecimenos em Python e Desenvolvimento WEB.
-- 📫 Como me encontrar: 
+- 🔭 I'm deepening my knowledge in Python and WEB Development.
+- 📫 How to find me: 
 - LinkedIn: https://www.linkedin.com/in/joan-guilherme-ara%C3%BAjo-de-menezes-76a859191/
 - E-mail: joanguilherme.contato@gmail.com
 - 😄 Pronouns: ele/dele
