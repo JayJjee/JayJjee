@@ -1,6 +1,6 @@
 ### Hey! I'm Joan 👋
 
-- 🔭 I'm deepening my knowledge in Python and WEB Development.
+- 🔭 I'm deepening my knowledge in Computer Science.
 - 📫 How to find me: 
 - LinkedIn: https://www.linkedin.com/in/joan-guilherme-ara%C3%BAjo-de-menezes-76a859191/
 - E-mail: joanguilherme.contato@gmail.com
@@ -11,13 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayJjee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayJjee&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
  ##
   
  <div> 
