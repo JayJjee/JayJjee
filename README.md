@@ -2,7 +2,7 @@
 
 - 🔭 I'm deepening my knowledge in Computer Science.
 - 📫 How to find me: 
-- LinkedIn: https://www.linkedin.com/in/joan-guilherme-ara%C3%BAjo-de-menezes-76a859191/
+- LinkedIn: https://www.linkedin.com/in/joanguilherme/
 - E-mail: joanguilherme.contato@gmail.com
 - 😄
 
